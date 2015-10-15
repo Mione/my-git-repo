@@ -1,0 +1,23 @@
+body{
+  background-color:#eee;
+  font-family: 'Roboto', sans-serif;
+}
+.container{
+  height: 800px;
+  display: flex;
+  margin: auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.container .test-card{
+  width:300px;
+  height:300px;
+  margin:auto;
+  background-color:#fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  display:flex;
+  margin-bottom:30px;
+}
+.container .test-card > span{
+  margin:auto;
+}
