@@ -1,4 +1,4 @@
 my-git-repo
 ===========
 
-test git hub repo *updated readme file.
+Various stuff that don't fit in another git repo..
